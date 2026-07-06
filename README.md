@@ -1,16 +1,66 @@
-## Hi there 👋
+<p align="center">
+    <img src="images/banner.png" width="100%">
+</p>
 
-<!--
-**MarcelloMendes/MarcelloMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Marcelo Mendes
 
-Here are some ideas to get you started:
+Data Engineer | Databricks | Apache Spark | Python | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm passionate about Data Engineering and building scalable data platforms.
+
+Currently focusing on:
+
+- Databricks
+- Apache Spark
+- Delta Lake
+- AWS
+- Azure
+- Data Engineering
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+Databricks • Spark • Python • SQL • Git • GitHub • Delta Lake • AWS • Azure
+
+</p>
+
+---
+
+## 🏆 Certifications
+
+- Databricks Certified Data Engineer Associate
+
+---
+
+## ⭐ Featured Projects
+
+### Enterprise Lakehouse with Databricks
+
+Complete Enterprise Data Engineering project.
+
+🔗 https://github.com/MarcelloMendes/enterprise-lakehouse-databricks
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloMendes&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloMendes&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn
+www.linkedin.com/in/marcelomendes-
+
+GitHub
+https://github.com/MarcelloMendes
